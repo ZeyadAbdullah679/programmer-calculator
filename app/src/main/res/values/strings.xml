@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Programmer Calculator</string>
+    <string name="app_name">Number System Converter</string>
     <string name="programmer_calculator">Programmer Calculator</string>
     <string name="binary">Binary</string>
     <string name="hexadecimal">Hexadecimal</string>

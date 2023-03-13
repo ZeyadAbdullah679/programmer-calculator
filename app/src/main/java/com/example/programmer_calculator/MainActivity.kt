@@ -18,12 +18,14 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         setValues()
+        converter()
+    }
 
+    private fun converter() {
         binaryConverter()
         octalConverter()
         decimalConverter()
         hexadecimalConverter()
-
     }
 
     private fun binaryConverter() {
